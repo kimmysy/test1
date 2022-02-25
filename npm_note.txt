@@ -1,0 +1,19 @@
+Ch.3 Javascript essentials > 1. Node.js > 유의적 버전 / npm 프로젝트 버전 관리
+
+Major. Minor. Patch
+12.14.1
+
+Major : 기존버전과 호환되지 않는 새로운 버전
+Minor : 기존버전과 호환되는 새로운 기능이 추가된 버전
+Patch : 기존버전과 호환되는 버그 및 오타 등이 수정된 버전
+^ : Major 버전 안에서 가장 최신 버전으로 업데이트 가능
+
+node --version node 버전 확인
+npm -- version npm 버전 확인
+npm info lodash : lodash 버전 확인
+
+npm install lodash@4.17.20 현재 버전(4.17.21기준)보다 낮은 패치버전 설치
+npm update lodash ^기호가 있을 경우 lodash 버전 update
+
+.cache / dist / node_moduels 폴더 삭제 
+npm i
