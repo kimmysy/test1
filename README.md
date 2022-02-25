@@ -9,8 +9,7 @@
 
 # 문장(Paragraph)
 
-동해물과 백두산이 마르고 닳도록
-하느님이 보우하사 우리나라 만세
+This is new updated test.
 
 # 줄바꿈(Line Breaks)
 
